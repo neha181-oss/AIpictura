@@ -6,8 +6,8 @@ Overview:
 - **DALL·E-2 Model for Image Generation:** Utilizing the cutting-edge DALL·E-2 model from OpenAI, the application executes the text-to-image generation process. The model's advanced capabilities enable it to comprehend textual prompts and produce corresponding images with remarkable accuracy and detail.
 
 - **AWS EC2 Deployment:** The application is deployed on AWS EC2, ensuring continuous uptime by running 24/7. The use of Amazon Web Services (AWS) EC2 provides a reliable and scalable hosting environment, ensuring accessibility and availability for users.
-  
-  Key Functionality:
+
+Key Functionality:
 
 - **Text-to-Image Transformation:** Users input descriptive text through the application's user interface, triggering the DALL·E-2 model to generate images that vividly depict the provided textual descriptions.
 
