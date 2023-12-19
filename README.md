@@ -13,4 +13,4 @@ Key Functionality:
 
 Conclusion:
 
-By amalgamating the process of Streamlit for frontend management, OpenAI's DALL·E-2 for text-to-image transformation, this project presents an advanced "Text to Image" application. Its user-centric design, powered by state-of-the-art technologies, signifies a significant advancement in facilitating the effortless creation of visual content from textual descriptions. This application stands as a testament to the synergy between Python, OpenAI, and Streamlit in fostering innovative and intuitive solutions in the realm of text-to-image generation.
+By amalgamating the process of Streamlit for frontend management, OpenAI's DALL·E-2 for text-to-image transformation, this project presents an advanced "Text to Image" application. Its user-centric design, powered by state-of-the-art technologies, signifies a significant advancement in facilitating the effortless creation of visual content from textual descriptions. This application stands as a testament to the synergy between Python, OpenAI, and Streamlit in fostering innovative and intuitive solutions in the realm of text-to-image generation using OpenAI & Python
