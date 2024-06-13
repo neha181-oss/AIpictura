@@ -1,5 +1,5 @@
 Overview:
-- **Streamlit Integration:** The application harnesses Streamlit, a powerful open-source Python library, serving as the application's server and managing the frontend. Streamlit offers a simple yet efficient interface, enabling seamless interaction and visualization of the text-to-image generation process.
+- **Streamlit Integration and also tkinter :** The application harnesses Streamlit and also tkinter , a powerful open-source Python library, serving as the application's server and managing the frontend. Streamlit offers a simple yet efficient interface, enabling seamless interaction and visualization of the text-to-image generation process.
 
 - **OpenAI API Integration:** The project leverages the OpenAI API key, granting access to the state-of-the-art DALL·E-2 model for text-to-image generation. This integration empowers the application to comprehend textual descriptions and translate them into high-quality visual representations.
 
